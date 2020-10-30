@@ -1,0 +1,38 @@
+
+
+
+ 
+body {
+  height: 1300px;
+  margin: 0;
+  background-color: #cccccc
+  ;
+  background-image: linear-gradient(darkred,darkblue);
+}
+
+body
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #711;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    font-style: normal;
+    font-variant:small-caps;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
